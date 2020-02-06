@@ -1,0 +1,24 @@
+{
+  "name": "gaoxiaobinggathermodules",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianduoduone/gaoxiaobingGatherModules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianduoduone/gaoxiaobingGatherModules/issues"
+  },
+  "homepage": "https://github.com/qianduoduone/gaoxiaobingGatherModules#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
